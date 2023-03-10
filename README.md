@@ -1,16 +1,43 @@
-### Hi there 👋
+<h1 align="center">Zero's Profile</h1>
+![](https://images.unsplash.com/photo-1623161464673-54c31a07d51e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80)
+## Introducción
+Bienvenido a mi perfil^^
+Aquí podrás encontrar diversos proyectos en los que he participado (ya sea grupales o individuales), de los cuales podrás aprender o evaluar según tu criterio.
 
-<!--
-**Zero10903/Zero10903** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mí
+- 🌹┊Pronouns: He/She
+- 🗺️┊Argentina
+- 📚┊ Español (Nativo) / Inglés (Principiante)
+- 📋┊Técnicx en Electrónica~
+- 💻┊Diseño web (HTML5, CSS3, JavaScript ES6) + 1 año de experiencia
+- 💡┊Arduino + 3 años de experiencia
+### Próximamente:
+- 🎮┊Game Development
+- 🔐┊Cybersecurity
 
-Here are some ideas to get you started:
+---
+<div align="left">
+	<h2>Lenguajes, herramientas y tecnologías aprendidas</h2>
+	<div>
+		<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-plain.svg" title="HTML5" alt="HTML5" height="80" width="80" />&nbsp;
+		<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-plain.svg" title="CSS3" alt="CSS3" height="80" width="80" />&nbsp;
+		<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" height="80" width="80" />&nbsp;
+		<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sass/sass-original.svg" title="Sass" alt="Sass" height="80" width="80" />
+		<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" title="Git" alt="Git" height="80" width="80" />
+	</div>
+</div>
+<div align="left">
+	<h2>¿Qué estoy aprendiendo actualmente?</h2>
+	<div>
+		<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" height="80" width="80" />
+		<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vuejs/vuejs-original.svg" title="Vue.js" alt="Vue.js" height="80" width="80" />
+		<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jquery/jquery-plain-wordmark.svg" title="jQuery" alt="jQuery" height="80" width="80" />
+	</div>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Mis stats
+[![GitHub Streak](https://streak-stats.demolab.com?user=Zero10903&theme=vue-dark&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zero10903&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
