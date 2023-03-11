@@ -4,13 +4,13 @@
 </div>
 
 ## Introducción
-Bienvenido a mi perfil^^
+Bienvenido a mi perfil^^ <br/>
 Aquí podrás encontrar diversos proyectos en los que he participado (ya sea grupales o individuales), de los cuales podrás aprender o evaluar según tu criterio.
 
 ## Sobre mí
 - 🌹┊Pronouns: He/She
 - 🗺️┊Argentina
-- 📚┊ Español (Nativo) / Inglés (Principiante)
+- 📚┊Español (Nativo) / Inglés (Principiante)
 - 📋┊Técnicx en Electrónica~
 - 💻┊Diseño web (HTML5, CSS3, JavaScript ES6) + 1 año de experiencia
 - 💡┊Arduino + 3 años de experiencia
