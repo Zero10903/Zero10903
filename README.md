@@ -12,7 +12,7 @@ Aquí podrás encontrar diversos proyectos en los que he participado (ya sea gru
 - 🗺️┊Argentina
 - 📚┊Español (Nativo) / Inglés (Principiante)
 - 📋┊Técnicx en Electrónica~
-- 💻┊Diseño web (HTML5, CSS3, JavaScript ES6) + 1 año de experiencia
+- 💻┊Frontend Developer (Road to MEVN Stack) + 1 año de experiencia
 - 💡┊Arduino + 3 años de experiencia
 ### Próximamente:
 - 🎮┊Game Development
@@ -23,18 +23,18 @@ Aquí podrás encontrar diversos proyectos en los que he participado (ya sea gru
 	<h2>Lenguajes, herramientas y tecnologías aprendidas</h2>
 	<div>
 		<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/arduino/arduino-original.svg" title="Arduino" alt="Arduino" height="80" width="80" />
+		<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" title="Git" alt="Git" height="80" width="80" />
 		<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-plain.svg" title="HTML5" alt="HTML5" height="80" width="80" />&nbsp;
 		<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-plain.svg" title="CSS3" alt="CSS3" height="80" width="80" />&nbsp;
 		<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" height="80" width="80" />&nbsp;
 		<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sass/sass-original.svg" title="Sass" alt="Sass" height="80" width="80" />
-		<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" title="Git" alt="Git" height="80" width="80" />
+		<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vuejs/vuejs-original.svg" title="Vue.js" alt="Vue.js" height="80" width="80" />
 	</div>
 </div>
 <div align="left">
 	<h2>¿Qué estoy aprendiendo actualmente?</h2>
 	<div>
 		<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" height="80" width="80" />
-		<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vuejs/vuejs-original.svg" title="Vue.js" alt="Vue.js" height="80" width="80" />
 		<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" height="80" width="80" />
 	</div>
 </div>
