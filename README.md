@@ -35,7 +35,6 @@ Aquí podrás encontrar diversos proyectos en los que he participado (ya sea gru
 	<h2>¿Qué estoy aprendiendo actualmente?</h2>
 	<div>
 		<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" height="80" width="80" />
-		<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" height="80" width="80" />
 	</div>
 </div>
 
