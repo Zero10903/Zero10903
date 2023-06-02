@@ -38,6 +38,14 @@ Aquí podrás encontrar diversos proyectos en los que he participado (ya sea gru
 		<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jest/jest-plain.svg" title="Jest" alt="Jest" height="80" width="80" />
 	</div>
 </div>
+<div alig="left">
+	<h2>¿Qué es lo que planeo aprender a futuro?</h2>
+	<div>
+		<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" height="80" width="80"/>
+		<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/express/express-original.svg" title="Express" alt="Express" height="80" width="80"/>
+		<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" height="80" width="80"/>
+	</div>
+</div>
 
 ---
 ## Mis stats
