@@ -53,4 +53,4 @@ Aquí podrás encontrar diversos proyectos en los que he participado (ya sea gru
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zero10903&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contáctame
-[https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white](https://instagram.com/wickedness__delirium) | [https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white](mailto:sam.alejandro.bustos@gmail.com) | [https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white](https://es.fiverr.com/sam_bustos)
+<a href="https://instagram.com/wickedness__delirium"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a> | <a href="mailto:sam.alejandro.bustos@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> | <a href="https://es.fiverr.com/sam_bustos"><img src="https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"/></a>
