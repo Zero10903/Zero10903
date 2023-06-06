@@ -51,3 +51,6 @@ Aquí podrás encontrar diversos proyectos en los que he participado (ya sea gru
 ## Mis stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=Zero10903&theme=vue-dark&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zero10903&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
+## Contáctame
+[https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white](https://instagram.com/wickedness__delirium) | [https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white](mailto:sam.alejandro.bustos@gmail.com) | [https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white](https://es.fiverr.com/sam_bustos)
