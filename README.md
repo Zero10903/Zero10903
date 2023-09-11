@@ -50,7 +50,6 @@ Aquí podrás encontrar diversos proyectos en los que he participado (ya sea gru
 
 ---
 ## Mis stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=Zero10903&theme=vue-dark&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zero10903&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contáctame
