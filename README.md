@@ -29,13 +29,12 @@ Aquí podrás encontrar diversos proyectos en los que he participado (ya sea gru
 		<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-plain.svg" title="CSS3" alt="CSS3" height="80" width="80" />&nbsp;
 		<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" height="80" width="80" />&nbsp;
 		<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sass/sass-original.svg" title="Sass" alt="Sass" height="80" width="80" />
-		<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vuejs/vuejs-original.svg" title="Vue.js" alt="Vue.js" height="80" width="80" />
 	</div>
 </div>
 <div align="left">
 	<h2>¿Qué estoy aprendiendo actualmente?</h2>
 	<div>
-		<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" height="80" width="80"/>
+		<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vuejs/vuejs-original.svg" title="Vue.js" alt="Vue.js" height="80" width="80" />
 	</div>
 </div>
 <div alig="left">
