@@ -20,7 +20,7 @@ Aquí podrás encontrar diversos proyectos en los que he participado (ya sea gru
 
 ---
 <div align="left">
-	<h2>Lenguajes, herramientas y tecnologías aprendidas</h2>
+	<h2>Lenguajes, herramientas y tecnologías que utilizo</h2>
 	<div>
 		<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/arduino/arduino-original.svg" title="Arduino" alt="Arduino" height="80" width="80" />
 		<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg" title="Figma" alt="Figma" height="80" width="80" />
