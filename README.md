@@ -10,9 +10,10 @@ Aquí podrás encontrar diversos proyectos en los que he participado (ya sea gru
 ## Sobre mí
 - 🌹┊Pronouns: He/She
 - 🗺️┊Argentina
-- 📚┊Español (Nativo) / Inglés (Principiante)
+- 📚┊Español (Nativo) / Inglés (A1)
 - 📋┊Técnicx en Electrónica~
 - 💻┊Frontend Developer (Road to Full Stack) + 1 año de experiencia
+- 💚┊Vue.js Lover~
 - 💡┊Arduino + 3 años de experiencia
 ### Próximamente:
 - 🎮┊Game Development
