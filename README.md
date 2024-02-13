@@ -8,16 +8,13 @@ Bienvenido a mi perfil^^ <br/>
 Aquí podrás encontrar diversos proyectos en los que he participado (ya sea grupales o individuales), de los cuales podrás aprender o evaluar según tu criterio.
 
 ## Sobre mí
-- 🌹┊Pronouns: He/She
+- 🌹┊Pronouns: he/him
 - 🗺️┊Argentina
 - 📚┊Español (Nativo) / Inglés (A1)
-- 📋┊Técnicx en Electrónica~
+- 📋┊Técnico en Electrónica~
 - 💻┊Frontend Developer (Road to Full Stack) + 1 año de experiencia
 - 💚┊Vue.js Lover~
 - 💡┊Arduino + 3 años de experiencia
-### Próximamente:
-- 🎮┊Game Development
-- 🔐┊Cybersecurity
 
 ---
 <div align="left">
@@ -36,16 +33,17 @@ Aquí podrás encontrar diversos proyectos en los que he participado (ya sea gru
 	<h2>¿Qué estoy aprendiendo actualmente?</h2>
 	<div>
 		<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vuejs/vuejs-original.svg" title="Vue.js" alt="Vue.js" height="80" width="80" />
+		<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" height="80" width="80" />
 	</div>
 </div>
 <div alig="left">
 	<h2>¿Qué es lo que planeo aprender a futuro?</h2>
 	<div>
-		<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" height="80" width="80" />
-		<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jest/jest-plain.svg" title="Jest" alt="Jest" height="80" width="80" />
+		<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/nuxtjs/nuxtjs-original.svg" title="Nuxt" alt="Nuxt" height="80" width="80" />
+		<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/php/php-plain.svg" title="PHP" alt="PHP" height="80" width="80" />
+		<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/laravel/laravel-original.svg" title="Laravel" alt="Laravel" height="80" width="80" />
 		<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" height="80" width="80"/>
-		<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/express/express-original.svg" title="Express" alt="Express" height="80" width="80"/>
-		<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" height="80" width="80"/>
+		<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jest/jest-plain.svg" title="Jest" alt="Jest" height="80" width="80" />
 	</div>
 </div>
 
