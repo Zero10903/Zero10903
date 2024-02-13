@@ -1,6 +1,6 @@
 <div align="center">
 	<h1>Zero's Profile</h1>
-	<img src="https://images.unsplash.com/photo-1623161464673-54c31a07d51e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80" width="100%" />
+	<img src="https://images.unsplash.com/photo-1501471984908-815b996862f4?q=80&w=1469&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" width="100%" />
 </div>
 
 ## Introducción
