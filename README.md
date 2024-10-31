@@ -48,10 +48,11 @@ Here, you will find various projects I've participated in, whether in groups or 
 
 ---
 ## My stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zero10903&layout=donut&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Zero10903&theme=synthwave)](https://git.io/streak-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zero10903&show_icons=true&theme=synthwave)
-
+<div align="center">
+	[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zero10903&layout=donut&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+	[![GitHub Streak](https://streak-stats.demolab.com/?user=Zero10903&theme=synthwave)](https://git.io/streak-stats)
+!	[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zero10903&show_icons=true&theme=synthwave)
+</div>
 
 ## Contact me
 <a href="https://instagram.com/eternal__delirium"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a> | <a href="mailto:sam.alejandro.bustos@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> | <a href="https://es.fiverr.com/sam_bustos"><img src="https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"/></a>
