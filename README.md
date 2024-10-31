@@ -49,27 +49,16 @@ Here, you will find various projects I've participated in, whether in groups or 
 ---
 ## My stats
 
-<table align="center">
-  <tr>
-    <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zero10903&layout=donut&theme=synthwave" alt="Top Langs">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com/?user=Zero10903&theme=synthwave" alt="GitHub Streak">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Zero10903&show_icons=true&theme=synthwave" alt="GitHub Stats">
-    </td>
-  </tr>
-</table>
+<div align="center">
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zero10903&layout=donut&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+  
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=Zero10903&theme=synthwave)](https://git.io/streak-stats)
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zero10903&show_icons=true&theme=synthwave)
+  
+</div>
+
 
 
 ## Contact me
