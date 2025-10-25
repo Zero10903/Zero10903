@@ -27,6 +27,7 @@ Here, you will find various projects I've participated in, whether in groups or 
 	<div>
 		<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/unity/unity-original.svg" title="Unity" alt="Unity" height="80" width="80" />
 		<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/csharp/csharp-original.svg" title="CSharp" alt="CSharp" height="80" width="80" />
+		<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/blender/blender-original.svg" title="Blender" alt="Blender" height="80" width="80" />
 	</div>
 </div>
 <div alig="left">
