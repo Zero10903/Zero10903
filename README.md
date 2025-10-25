@@ -8,31 +8,18 @@ Welcome to my profile^^ <br />
 Here, you will find various projects I've participated in, whether in groups or individually. Feel free to learn from them or evaluate them based on your own criteria.
 
 ## About me
-- 🌹┊Pronouns: he/him
 - 🗺️┊Argentina
-- 📚┊Spanish (Native) / English (A1)
-- 📋┊Electronics Technician
-- 💻┊Frontend Developer
+- 📚┊Spanish (Native) / English (B2)
 - 💚┊Vue.js Lover~
-- 💡┊Arduino
 - 🎮┊Game Developer
 
 ---
 <div align="left">
 	<h2>Languages, Tools, and Technologies I Use</h2>
 	<div>
-		<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/arduino/arduino-original.svg" title="Arduino" alt="Arduino" height="80" width="80" />
 		<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg" title="Figma" alt="Figma" height="80" width="80" />
-		<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/slack/slack-original.svg" title="Slack" alt="Slack" height="80" width="80" />
-		<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/trello/trello-original.svg" title="Trello" alt="Trello" height="80" width="80" />
 		<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/notion/notion-original.svg" title="Notion" alt="Notion" height="80" width="80" />
 		<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" title="Git" alt="Git" height="80" width="80" />
-		<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-plain.svg" title="HTML5" alt="HTML5" height="80" width="80" />
-		<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-plain.svg" title="CSS3" alt="CSS3" height="80" width="80" />
-		<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sass/sass-original.svg" title="Sass" alt="Sass" height="80" width="80" />
-		<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" height="80" width="80" />
-		<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" height="80" width="80" />
-		<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vuejs/vuejs-original.svg" title="Vue.js" alt="Vue.js" height="80" width="80" />
 	</div>
 </div>
 <div align="left">
