@@ -9,7 +9,7 @@ Here, you will find various projects I've participated in, whether in groups or 
 
 ## About me
 - 🗺️┊Argentina
-- 📚┊Spanish (Native) / English (B2)
+- 📚┊Spanish (Native) / English (B1)
 - 💚┊Vue.js Lover~
 - 🎮┊Game Developer
 
