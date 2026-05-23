@@ -23,6 +23,7 @@ Here, you will find various projects I've participated in, whether in groups or 
 		<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/unity/unity-original.svg" title="Unity" alt="Unity" height="80" width="80" />
 		<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/csharp/csharp-original.svg" title="CSharp" alt="CSharp" height="80" width="80" />
 		<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/blender/blender-original.svg" title="Blender" alt="Blender" height="80" width="80" />
+		<img src="https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/linuxmint/linuxmint-original.svg" title="Linux Mint" alt="Linux Mint" height="80" width="80" />
 	</div>
 </div>
 
